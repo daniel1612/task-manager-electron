@@ -28,7 +28,7 @@ To set up and run the project locally, follow these steps:
 1. Download or clone this repository to your computer.
 2. Navigate to the project directory:
    ```bash
-   cd task-manager-electron-ts
+   cd task-manager-electron
    ```
 3. Install dependencies:
    ```bash
